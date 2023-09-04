@@ -1,0 +1,15 @@
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\bin\Debug\net7.0\SudokuSolver.exe
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\bin\Debug\net7.0\SudokuSolver.deps.json
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\bin\Debug\net7.0\SudokuSolver.runtimeconfig.json
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\bin\Debug\net7.0\SudokuSolver.dll
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\bin\Debug\net7.0\SudokuSolver.pdb
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\obj\Debug\net7.0\SudokuSolver.csproj.AssemblyReference.cache
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\obj\Debug\net7.0\SudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\obj\Debug\net7.0\SudokuSolver.AssemblyInfoInputs.cache
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\obj\Debug\net7.0\SudokuSolver.AssemblyInfo.cs
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\obj\Debug\net7.0\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\obj\Debug\net7.0\SudokuSolver.dll
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\obj\Debug\net7.0\refint\SudokuSolver.dll
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\obj\Debug\net7.0\SudokuSolver.pdb
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\obj\Debug\net7.0\SudokuSolver.genruntimeconfig.cache
+C:\Users\кто я\Documents\Redundant\SudokuSolver\SudokuSolver\obj\Debug\net7.0\ref\SudokuSolver.dll
